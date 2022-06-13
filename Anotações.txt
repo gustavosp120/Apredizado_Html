@@ -1,0 +1,43 @@
+Formação de textos:
+<srtong></srtong> = Deixa em Negrito
+<b> a </b> = Deixa em Negrito 
+<i> = Itáligaco 
+<em> = Itáligaco
+<u> = Underline
+<strike> = Risco na letra  
+
+<meta> = Comando para deixar incluso acentos no sites 
+<br> = Exemplo : Sobre a empresa<br>
+	  	Essa é uma empresa tal... (br joga a linha para baixo, dando um break)
+<p></p> Parágrafos
+<hr> Separar linhas
+
+
+Lista Ordenadas e Não:
+<li> = item da Lista
+<ol> = Lista Ordenada (type = Formar geometricas)
+<ul> = Não Ordenada (Type = Valores Numeros e Letras 1, A, a e I)
+
+
+Como colocar imagens
+
+<img src="Pasta1/pasta2/Imagem 1"> = pasta que está a imagem e o nome da imagem
+
+Ou Endereço da imagem 
+
+<img src="https://i.pinimg.com/736x/94/0c/09/940c0950c36226308d71a9927023214b--gol-gts-vw-gol.jpg">
+
+Adicionando o winth = podemos escolher o largura da imagem como :
+Adicionando o height = Podemos escolher o altura da imagem como :
+img src="imagens/Gol roxao.jpg" width="800">
+
+
+Como Criar links dentro da sua pagina:
+
+<a href=""</a>
+
+Tabelas :
+
+<table> = <tr> = <td> ou <th>
+<td colspan="2">Cupom1 -R$ 10,00</td> = Colocar uma coluna para agrupar mais de um espaço
+<td rowspan="">Desconto</td> = Colocar uma coluna para agrupar mais de um espaço para baixo
